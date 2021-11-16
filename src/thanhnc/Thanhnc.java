@@ -18,6 +18,7 @@ public class Thanhnc {
         // TODO code application logic here
         System.out.println("CCCCCC");
         System.out.println("AAAAAAAAAA");
+        System.out.println("BBBB");
     }
     
 }
